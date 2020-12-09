@@ -1,7 +1,7 @@
 # TwitchRadioShow
 
 ## Motivation
-
+I want to create software that mimics radio show hosts inviting people to call into their shows, but I want to do this using twitch and discord. I want streamers to be able to host just chatting shows and let viewers spend some of their channel points to temperarly join the streamers voice chat and talk to them for the amout of time they have payed for.
 ## Tech
 - comfy.js (Temp for now I just know that it can access twitch channel points. Willing to use it permenantly if I like it.)
 - discord.js
