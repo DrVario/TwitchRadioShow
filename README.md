@@ -3,12 +3,15 @@
 ## Motivation
 
 ## Tech
-- comfy.js
+- comfy.js (Temp for now I just know that it can access twitch channel points. Willing to use it permenantly if I like it.)
+- discord.js
+- tmi.js
+- SQL
+- Node.js
 ## Features
 - Uses channel points
 - Bidding
 - Automatic adding and removing users from discord voice channels
-
 
 ## Installation
 
@@ -17,6 +20,8 @@
 ## Contribute
 
 ## Credits
+- [Grant Porter](https://github.com/DrVario)
+
 
 ## License
 Copyright 2020 Grant Porter
